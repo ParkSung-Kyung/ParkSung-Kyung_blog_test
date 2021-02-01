@@ -6,6 +6,8 @@ plugins:
   - jekyll-paginate-v2
 
 exclude:
+  - "something"
+  - "Gemfile"
   - "/vendor/"
 
 # Site settings
